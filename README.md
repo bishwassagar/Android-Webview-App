@@ -8,10 +8,6 @@ A Simple To Use App That Shows Web Pages Within The App And Download Content Usi
 
 Download here : [Demo Apk](https://github.com/satyakami/Android-Webview-App/raw/master/demo.apk)
 
-# Screenshots
-
-![ANDROID WEBVIEW](https://raw.githubusercontent.com/satyakami/Android-Webview-App/master/screenshots/screenshot-1.png) !
-
 # How To Build Your Own App
 
 ## Change Package name
@@ -26,7 +22,7 @@ applicationId "your.package.name"
 ## Change Website URL (Line 68)
 ```app/src/main/java/com/webview/app/MainActivity.java```
 ```json
-mWebView.loadUrl("https://duckduckgo.com");
+mWebView.loadUrl("https://fast.com");
 ```
 Replace The Link With Whatever You Want
 
