@@ -4,9 +4,9 @@ A Simple To Use App That Shows Web Pages Within The App And Download Content Usi
 [![Platform](https://img.shields.io/badge/platform-android-green.svg)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21)
 
-#Screenshot
+# Screenshot
 
-![ANDROID WEBVIEW](https://raw.githubusercontent.com/satyakami/Android-Webview-App/master/screenshot_demo.png)!
+![ANDROID WEBVIEW](https://raw.githubusercontent.com/satyakami/Android-Webview-App/master/screenshot_demo.png)
 
 # Demo
 
